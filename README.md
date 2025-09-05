@@ -14,12 +14,9 @@ Curso Engenharia de software com paixão por inteligência artificial e desenvol
 
 ---
 
-### Estatísticas do meu GitHub
+### Linguagens Mais Usadas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorrodrigues230&show_icons=true&theme=light&hide_rank=true)](https://github.com/vitorrodrigues230)
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrodrigues230&layout=compact&hide_title=true&theme=light)](https://github.com/vitorrodrigues230)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitorrodrigues230&theme=light)](https://git.io/streak-stats)
-
 ---
 
 ### 🌱 O que estou aprendendo agora
