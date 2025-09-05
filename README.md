@@ -12,7 +12,7 @@ Curso Engenharia de software com paixão por inteligencia artificial, desenvolvi
 
 ---
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrodrigues230&layout=compact&hide_title=true&card_width=450&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrodrigues230&layout=compact&hide_title=true&theme=light)
 
 ---
 
