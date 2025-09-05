@@ -20,8 +20,7 @@ Estou me dedicando a automação de projetos e cração de banco de dados (tanto
 
 ### 🤝 Como me encontrar
 
-* **LinkedIn:** [Seu link do LinkedIn, ex: https://linkedin.com/in/vitor-souza]
-* **E-mail:** [Seu e-mail, ex: vitor.santos@email.com]
-* **Website:** [Seu site ou portfólio, se tiver]
+* **LinkedIn:** www.linkedin.com/in/vitor-vr-rodrigues
+* **E-mail:** vrodriguesferreira1@gmail.com
 
 ---
