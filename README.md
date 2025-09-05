@@ -30,7 +30,7 @@ Estou me dedicando à automação de projetos e à criação de banco de dados (
 
 ### 🤝 Como me encontrar
 
-* **LinkedIn:** [www.linkedin.com/in/vitor-vr-rodrigues](www.linkedin.com/in/vitor-vr-rodrigues)
-* **E-mail:** [vrodriguesferreira1@gmail.com](mailto:vrodriguesferreira1@gmail.com)
+* **LinkedIn:** www.linkedin.com/in/vitor-vr-rodrigues
+* **E-mail:** vrodriguesferreira1@gmail.com
 
 ---
