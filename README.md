@@ -18,7 +18,7 @@ Curso Engenharia de software com paixão por inteligencia artificial, desenvolvi
 
 ### 🌱 O que estou aprendendo agora
 
-Estou me dedicando a automação de projetos e criação de banco de dados (tanto logico/conceitual, como fisico ) 
+Estou me dedicando a automação de projetos e criação de banco de dados (tanto lógico/conceitual, como físico ) 
 
 ---
 
