@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá, eu sou o Vitor! 👋
 
-<!--
-**vitorrodrigues230/vitorrodrigues230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curso Engenharia de software com paixão por inteligencia artificial, desenvolvimento back-end. Atualmente estou focado em aprender java, python e SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Habilidades Técnicas
+
+* **Linguagens:** python, java e SQL
+* **Bancos de Dados:** MySQL, PostgreSQL
+* **Ferramentas:** VScode, Pycharm, pgadmin e brModelo
+
+---
+
+### 🌱 O que estou aprendendo agora
+
+Estou me dedicando a automação de projetos e cração de banco de dados (tanto logico/conceitual, como fisico ) 
+
+---
+
+### 🤝 Como me encontrar
+
+* **LinkedIn:** [Seu link do LinkedIn, ex: https://linkedin.com/in/vitor-souza]
+* **E-mail:** [Seu e-mail, ex: vitor.santos@email.com]
+* **Website:** [Seu site ou portfólio, se tiver]
+
+---
