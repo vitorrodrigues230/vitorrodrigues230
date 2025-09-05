@@ -12,6 +12,10 @@ Curso Engenharia de software com paixão por inteligencia artificial, desenvolvi
 
 ---
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrodrigues230&layout=compact&hide_title=true&card_width=450&theme=dark)
+
+---
+
 ### 🌱 O que estou aprendendo agora
 
 Estou me dedicando a automação de projetos e criação de banco de dados (tanto logico/conceitual, como fisico ) 
